@@ -1,3 +1,1 @@
-# FaceMaskDetection
-
-#this is testing
+<h1 align="center">마스크 인식 시스템(Face Mask Detection)</h1>
